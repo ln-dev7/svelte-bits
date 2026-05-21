@@ -308,6 +308,7 @@ export const IMPLEMENTED_DEMOS = new Set<string>([
 	'scroll-reveal',
 	'ascii-text',
 	'variable-proximity',
+	'scroll-velocity'
 ]);
 
 // Helper: is this subcategory label fully ported?

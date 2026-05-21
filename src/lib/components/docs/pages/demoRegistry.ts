@@ -137,4 +137,5 @@ export const DOC_PAGE_REGISTRY: Record<string, DemoLoader> = {
 	'scroll-reveal': () => import('./ScrollRevealDemo.svelte'),
 	'ascii-text': () => import('./ASCIITextDemo.svelte'),
 	'variable-proximity': () => import('./VariableProximityDemo.svelte'),
+	'scroll-velocity': () => import('./ScrollVelocityDemo.svelte')
 };
